@@ -1,6 +1,7 @@
 # Interview Task 
 
-Excel document containing all defined documentation: ([Assumptions Scripts and Stories.xlsx](https://github.com/Jacob130000x/Interview/files/7145403/Assumptions.Scripts.and.Stories.xlsx))
+Excel document containing all defined documentation: ([Assumptions Scripts and Stories.xlsx](https://github.com/Jacob130000x/Interview/files/7150229/Assumptions.Scripts.and.Stories.xlsx)
+)
 
 ### Task define the test documentation for a door with a fingerprint lock</h3>
 
@@ -76,8 +77,10 @@ I have come up with certain scenarios before writing the test scripts as shown b
 
 ## Scripts
 
-Please see the whole document attached ([Assumptions Scripts and Stories.xlsx](https://github.com/Jacob130000x/Interview/files/7145403/Assumptions.Scripts.and.Stories.xlsx))
-showing the Story, Scenarios, Assumptions, Test Scripts, Smoke and Regression Pack. The scripts are fully written with Prerequisites, Descriptions, Steps and Expected Results.. The scripts should be stored in a central location. This could be stored in ALM or even in sharepoint as long as they are being maintained.
+Please see the whole document attached ([Assumptions Scripts and Stories.xlsx](https://github.com/Jacob130000x/Interview/files/7150230/Assumptions.Scripts.and.Stories.xlsx)
+)
+showing the Story, Scenarios, Assumptions, Test Scripts, Smoke and Regression Pack. The scripts are fully written with Prerequisites, Descriptions, Steps and Expected Results. The scripts should be stored in a central location. This could be stored in ALM or even in sharepoint as long as they are being maintained.
+I have added priority to the test scripts from 1 to 3 (1 being a must test) in order to know when looking back at the scripts which ones must be run and which tests can be run if there is a sufficient time left. 
 
 **Here is the list of the Scripts:**
 note: SR stands for scenarios and TS for Test Script e.g. SR001.TS001 relates to Scenario 1 and it is the fist script on the list. 
